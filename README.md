@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Ajay Samuel aka @BlessCoffee 
-- 👀 I’m interested in Software Engineering and Development
+- 😁 Hi, I’m Ajay Samuel aka @BlessCoffee 
+
+- 🌟 I’m interested in : 
+            - Learning Programming
+            - Gaming
+            - Reading
+            
 - 🌱 I’m currently doing my degree in Computer Science and Software Enginerring
+
 - 📫 How to reach me :
       
       IG       : @blessed_coffeee
