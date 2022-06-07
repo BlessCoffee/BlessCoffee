@@ -1,6 +1,6 @@
 - 😁 Hi, I’m Ajay Samuel  @BlessCoffee
 
-- 🌟 I’m interested in : 
+- 🌟 I’m interested in :
             - Data Science
             - Software Developement 
             
