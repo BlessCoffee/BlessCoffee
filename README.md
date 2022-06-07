@@ -1,7 +1,9 @@
 - 😁 Hi, I’m Ajay Samuel  @BlessCoffee
 
 - 🌟 I’m interested in :
+
             - Data Science
+            
             - Software Developement 
             
 - 🌱 I’m currently doing my degree in Computer Science and Software Enginerring
